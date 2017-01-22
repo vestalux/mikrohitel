@@ -1,10 +1,11 @@
 ---
 layout: default
 sitemap:
-    priority: 0.7
-    changefreq: 'monthly'
-    lastmod: 2017-01-06T09:59:30-05:00
+  priority: 0.7
+  changefreq: monthly
+  lastmod: 2017-01-06 14:59:30 Z
 ---
+
 ## Kamatmentes Vállalkozói Hitel
 
 Növelje ön is cége versenyképességét **ingyenhitel** segítségével. 

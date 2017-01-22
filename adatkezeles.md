@@ -1,10 +1,11 @@
 ---
 layout: default
 sitemap:
-    priority: 0.7
-    changefreq: 'monthly'
-    lastmod: 2017-01-05T12:49:30-05:00
+  priority: 0.7
+  changefreq: monthly
+  lastmod: 2017-01-05 17:49:30 Z
 ---
+
 ## HÍRLEVÉL SZOLGÁLTATÁSSAL KAPCSOLATOS ADATKEZELÉSI SZABÁLYZAT
 
 ### ADATKEZELÉSI SZABÁLYZAT HÍRLEVÉLKÜLDŐ SZOLGÁLTATÁSHOZ
