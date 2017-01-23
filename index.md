@@ -39,7 +39,7 @@ Beruházás nettó összege 20 millió Ft
 
  - Új eszköz beszerzése 10 millió Ft – önerő 1 millió Ft, hitel összege 9 millió Ft  
  - Ingatlan felújítás 5 millió Ft – önerő 500 eFt, hitelösszeg 4,5 millió  Ft
- - Tehergépkocsi beszerzés 5 millió Ft- önerő (20%) 1 millió Ft hitel 4 millió Ft 
+ - Használt tehergépkocsi beszerzés 5 millió Ft- önerő (20%) 1 millió Ft hitel 4 millió Ft 
 
 **Türelmi idő:** 12 hónap (átlag)<br/>
 **Futamidő:** 168 hónap<br/>
