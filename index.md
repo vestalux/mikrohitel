@@ -66,9 +66,7 @@ Beruházás nettó összege 20 millió Ft
 
 
 
-####### A hitel kamata 0%. Kezelési költség, rendelkezésre tartási jutalék, előtörlesztési díj, szerződésmódosítási díj
- 
-
-####### A hitelkérelem bírálatával, a kölcsönszerződés megkötésével és módosításával, valamint a kölcsön folyósításával összefüggésben az ügyfelet díjfizetési kötelezettség nem terheli, kivéve, ha az, harmadik felet illet (pl. értékbecslői, közjegyzői díj).
-####### A kölcsön a végső kedvezményezett által bármikor előtörleszthető vagy végtörleszthető anélkül, hogy az a kölcsön kondícióinak romlását, vagy terheinek, költségeinek növekedését eredményezné.
+###### A hitel kamata 0%. Kezelési költség, rendelkezésre tartási jutalék, előtörlesztési díj, szerződésmódosítási díj
+###### A hitelkérelem bírálatával, a kölcsönszerződés megkötésével és módosításával, valamint a kölcsön folyósításával összefüggésben az ügyfelet díjfizetési kötelezettség nem terheli, kivéve, ha az, harmadik felet illet (pl. értékbecslői, közjegyzői díj).
+###### A kölcsön a végső kedvezményezett által bármikor előtörleszthető vagy végtörleszthető anélkül, hogy az a kölcsön kondícióinak romlását, vagy terheinek, költségeinek növekedését eredményezné.
 
